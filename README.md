@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rianhendrik.
+- 👀 I’m interested in statistics.
+- 🌱 I’m currently learning more about statistics in a Mcom course in advanced data analytics at the University of Pretoria. My research interests lie in spatial statistics.
+- 📫 You can reach me at rian.hendrik99@gmail.com.
+- Allons faire des choses géniales!
